@@ -71,7 +71,7 @@ pip install pandas numpy matplotlib scikit-learn
 ## 🔧 Running the Project
   ** 1. Clone the repository:**
   ```bash
-  git clone https://github.com/Sahil00017/Car-Price-Prediction-Regression
+  git clone https://github.com/Havoc-ameen/Car_price_pridiction
   ```
   ** 2. Navigate to the project folder:**
   ```bash
